@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+### Name: LOKNAATH P
+### Register Number: 212223240080
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
